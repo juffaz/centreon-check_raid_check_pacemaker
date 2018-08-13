@@ -1,0 +1,1 @@
+# centreon-check_raid_check_pacemaker
